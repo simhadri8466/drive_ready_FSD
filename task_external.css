@@ -1,0 +1,45 @@
+.main_div{
+	height: 800px;
+	width: 100%;
+	background-color: green;
+}
+
+
+.d1{
+			height: 30px;
+			width: 100%;
+			background-color: whitesmoke;
+			display: flex;
+			justify-content: center;
+			
+		}
+		.b1{
+			background-color:lightgreen;
+			height: 30px;
+			
+		}
+		.b2{
+			background-color:skyblue;
+			height: 30px;
+			margin: 0px 8px;
+		}
+		.b3{
+			background-color:skyblue;
+			height: 30px;
+			
+		}
+		.b4{
+			background-color:skyblue;
+			height: 30px;
+			margin: 0px 8px;
+		}
+		select{
+			background-color: red;
+			height: 30px;
+		}
+.d2{
+	height: 400px;
+	width: 200px;
+	background-color: green;
+    float: left;
+}
