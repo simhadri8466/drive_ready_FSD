@@ -1,0 +1,78 @@
+/*.Name{
+    color: green;
+
+}
+#abc{
+    color: orange;
+}
+p,span{
+    color: blueviolet;
+    font-size: 30px;
+    background-color: black;
+}
+*{
+  font-family: cursive;
+  margin: 0px;
+  padding: 0px;
+}
+input[type]{
+    color: blue;
+}
+input[type="text"]{
+    color: red;
+}
+input[type="number"]{
+    color: green;
+}
+a[href]{
+    background-color: skyblue;
+}
+a[img="src"]{
+    width: 200;
+    height: 300;
+}
+a:link{
+    color: green
+}
+a:visited{
+    color: blue
+}
+a:hover{
+    color: red
+}
+a:active{
+    color: yellow
+}
+/*div:hover{
+    background-color: blueviolet;
+    height: 300px;
+    width: 300px;
+}
+div{
+   height: 80px;
+   width: 300px;
+   border: 5px solid blueviolet;
+   background-image: url("https://technicalhub.io/images/technicalhub_logs/GREEN%20TM.png");
+   background-repeat: no-repeat;
+   background-size: cover;
+}*/
+
+div{
+  border: 5px dashed firebrick;
+  background: linear-gradient(to top, #EEE,#EEE),darkturquoise;
+  background-clip: padding-box, border-box;
+}
+    /*border-style: double;
+    border-width: 5px;
+    border-color: red;
+    border-style: dotted;
+    background-color: yellow;
+
+
+    /*border-right-style: dashed;
+    border-bottom-style: ridge;
+    border-left-style: ridge;
+    border-radius: 50px;
+    border: 5px solid blue;*/
+
+

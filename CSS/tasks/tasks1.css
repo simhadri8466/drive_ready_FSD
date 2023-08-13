@@ -1,0 +1,51 @@
+td,
+th{
+  border: 1px solid black;
+  resize: both;
+  overflow: auto;
+}
+
+
+a{
+  margin:11px
+}
+.dt_1{
+    display: block;
+    font-weight: bold;
+  }
+.kol{
+    font-size: 23px;
+
+}
+.kol_1{
+  background-color:aquamarine;
+}
+
+.pre_1{
+  width: auto;
+  height: 90x;
+  background-color:lightgrey;
+}
+.bq_1{
+  font-style: italic;
+}
+.div_301{
+  width: auto;
+  height: auto;
+  float:right  
+}
+input[type=text]{
+  background-color: lightgrey;
+  float: right;
+  text-align: right;
+}
+#txt{
+  margin-top: 4px;
+  background-color: lightgray;
+}
+#bt{
+  background-color: gray;
+  padding: 5px 98px;
+  text-align: center;
+  font-size: 16px;
+}
